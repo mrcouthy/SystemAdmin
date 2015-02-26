@@ -1,0 +1,8 @@
+Change folder:
+cd /c/project/
+
+Git trick:
+Add following to config if there is error "SSL certificate problem: unable to get local issuer certificate"
+
+[http]
+    sslVerify = false
